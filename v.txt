@@ -1,0 +1,24 @@
+{
+    "companyName": "goMart",
+    "clientID": "c439546f-ef3e-4eeb-a55e-31c0b9a4e737",
+    "clientSecret": "MzNMKbULttRlRtAO",
+    "ownerName": "Vollala Vishnuvardhan",
+    "ownerEmail": "vishnuvardhanvollala@gmail.com",
+    "rollNo": "21J41A6264"
+}
+
+{
+    "companyName":"goMart",
+    "ownerName":"Vollala Vishnuvardhan",
+    "rollNo":"21J41A6264",
+    "ownerEmail":"vishnuvardhanvollala@gmail.com",
+    "accessCode":"DUKyet"
+}
+
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzIzODczNTQ4LCJpYXQiOjE3MjM4NzMyNDgsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImM0Mzk1NDZmLWVmM2UtNGVlYi1hNTVlLTMxYzBiOWE0ZTczNyIsInN1YiI6InZpc2hudXZhcmRoYW52b2xsYWxhQGdtYWlsLmNvbSJ9LCJjb21wYW55TmFtZSI6ImdvTWFydCIsImNsaWVudElEIjoiYzQzOTU0NmYtZWYzZS00ZWViLWE1NWUtMzFjMGI5YTRlNzM3IiwiY2xpZW50U2VjcmV0IjoiTXpOTUtiVUx0dFJsUnRBTyIsIm93bmVyTmFtZSI6IlZvbGxhbGEgVmlzaG51dmFyZGhhbiIsIm93bmVyRW1haWwiOiJ2aXNobnV2YXJkaGFudm9sbGFsYUBnbWFpbC5jb20iLCJyb2xsTm8iOiIyMUo0MUE2MjY0In0.tfBMnnF-vNnkune-uQhSCmi1jtZSwhv4UsPN8wYuaKU",
+    "expires_in": 1723873548
+}
